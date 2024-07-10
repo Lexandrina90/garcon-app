@@ -22,7 +22,7 @@ const route = useRoute();
             </li>
             <li class="cursor-pointer">
                 <router-link 
-                    to="/"  
+                    to="#"  
                     class="flex flex-col justify-center items-center"
                 >
                     <OrderIcon class="text-primary-white"/>
