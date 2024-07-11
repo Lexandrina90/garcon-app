@@ -13,7 +13,8 @@ export default {
         'light-gray': '#F4F1ED',
         'beige': '#E7BDA6',
         'primary-white': '#F4F1ED',
-    }
+        'btn-beige-important': '#E7BDA6 !important',
+    },
   },
   plugins: [],
 }

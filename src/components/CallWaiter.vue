@@ -75,7 +75,8 @@ const callWaiter = async() => {
             </div>
             <CustomButton 
                 type="submit"
-                class="mt-2 bg-beige"
+                class="mt-2 bg-btn-beige-important"
+               
             >
                 {{ TEXT.CALL }}
             </CustomButton>
